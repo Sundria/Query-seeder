@@ -7,6 +7,7 @@ for c in range(1, 101):
                 for e in range(1, 101):
                     print(f'uptade set users set "accountId" = {e} where id = {e}')
 user = input('Pressione "Enter" para sair.')
+print('Olá jacaré')
 
 #pyinstaller "nome do arquivo" --onefile
 
